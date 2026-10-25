@@ -44,7 +44,7 @@ python lab1_Sharabbayeva.py
 
 ## Author
 
-Maftuna Sharabbayeva
+Maftuna Sharabbaeva
 
 ## Disclaimer
 
