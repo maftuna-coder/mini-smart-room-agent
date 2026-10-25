@@ -49,3 +49,21 @@ Maftuna Sharabbaeva
 ## Disclaimer
 
 This project is an educational simulation of an intelligent agent and is not a production-ready smart-home control system.
+
+## Visual Results
+
+### Baseline Day
+
+This graph shows the smart-room agent's baseline behavior, including room temperature, outdoor temperature, CO₂ levels, and heating, cooling, and ventilation actions.
+
+![Smart-room agent baseline results](https://github.com/maftuna-coder/mini-smart-room-agent/blob/main/lab1_output_baseline.png)
+
+### Schedule Drift
+
+This graph demonstrates how changing the class schedule to 18:00 affects the agent when it continues following its original timetable.
+
+![Smart-room agent schedule drift results](https://github.com/maftuna-coder/mini-smart-room-agent/blob/main/lab1_output_drift.png)
+
+### Analysis
+
+The baseline and drift experiments illustrate why intelligent agents need to detect environmental or schedule changes and adapt their decisions accordingly.
